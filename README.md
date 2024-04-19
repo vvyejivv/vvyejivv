@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=random&height=300&section=header&text=Hi&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Hi&fontSize=30&fontColor=ffffff" />
