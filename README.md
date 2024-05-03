@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6e8af3&height=180&text=Yeji%20Kim&animation=fadeIn&fontColor=f966ab&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=6e8af3&height=180&text=Yeji%20Kim&animation=fadeIn&fontColor=f966ab&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍❤️‍👩 협업과 소통을 중요시 여기는 개발자 김예지 입니다 🤗 </h2>  
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvyejivv&layout=compact&bg_color=180,bddcff,00000000&title_color=000000&text_color=000000"/> 
             <img src="https://github-readme-stats.vercel.app/api?username=vvyejivv&bg_color=180,bddcff,00000000&title_color=000000&text_color=000000"/> <br>
         </div> 
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=6e8af3&height=150&section=footer&animation=twinkling)
     </div>
     
     
