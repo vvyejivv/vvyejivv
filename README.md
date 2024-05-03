@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=venom&color=6e8af3&height=180&text=Yeji%20Kim&animation=fadeIn&fontColor=f966ab&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍❤️‍👩 협업과 소통을 중요시 여기는 개발자 김예지 입니다 🤗 </h2>  
+        <h2 style="color: #282d33;"> 👩‍❤️‍👩 협업과 소통을 중요시 여기는 개발자 김예지 입니다 🤗 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖교육 및 연수사항</h2>
         <li>기간 : 2023.12.04 ~ 2024.06.07</li>
@@ -58,10 +58,11 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:vvyejivv@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vvyejivv@gmail.com"> </a>
-         <a href=https://www.notion.so/AWS-cd414037131b4650b9cb520e8770491c> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/AWS-cd414037131b4650b9cb520e8770491c"> </a>
-          </div>  <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻프로젝트 </h2> <br> 
+    <div style="text-align: left;"> 
+        <li>[팀 프로젝트 / SpringBoot] <a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-.git">FOOD114</a> </li>
+        <li>[개인 프로젝트 / React, Node.js]<a href="https://github.com/vvyejivv/react_sample2.git">Mimi</a> </li>
+    </div><br /> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
