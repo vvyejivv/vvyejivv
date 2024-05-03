@@ -68,8 +68,8 @@ Here are some ideas to get you started:
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div style="text-align: left;"> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvyejivv&layout=compact&bg_color=180,FFE3CA,00000000&title_color=000000&text_color=000000"/> 
-            <img src="https://github-readme-stats.vercel.app/api?username=vvyejivv&bg_color=180,F6F5F5,00000000&title_color=000000&text_color=000000"/> <br>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvyejivv&layout=compact&bg_color=180,F6F5F5,00000000&title_color=000000&text_color=000000"/> 
+            <img src="https://github-readme-stats.vercel.app/api?username=vvyejivv&bg_color=180,FFE3CA,00000000&title_color=000000&text_color=000000"/> <br>
         </div> 
      <img src="https://capsule-render.vercel.app/api?type=wave&color=0C359E&height=150&section=footer&animation=twinkling" />
     </div>
