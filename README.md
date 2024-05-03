@@ -58,7 +58,7 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvyejivv&layout=compact&bg_color=180,bddcff,00000000&title_color=000000&text_color=000000"/> 
             <img src="https://github-readme-stats.vercel.app/api?username=vvyejivv&bg_color=180,bddcff,00000000&title_color=000000&text_color=000000"/> <br>
         </div> 
- ![header](https://capsule-render.vercel.app/api?type=wave&color=6e8af3&height=150&section=footer&animation=twinkling)
+     <img src="https://capsule-render.vercel.app/api?type=wave&color=6e8af3&height=150&section=footer&animation=twinkling" />
     </div>
     
     
