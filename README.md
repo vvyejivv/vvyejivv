@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=ff9999&height=180&text=Yeji%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=6e8af3&height=180&text=Yeji%20Kim&animation=fadeIn&fontColor=f966ab&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍❤️‍👩 협업과 소통을 중요시 여기는 개발자 김예지 입니다 🤗 </h2>  
