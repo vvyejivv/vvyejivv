@@ -20,8 +20,20 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=venom&color=6e8af3&height=180&text=Yeji%20Kim&animation=fadeIn&fontColor=f966ab&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍❤️‍👩 협업과 소통을 중요시 여기는 개발자 김예지 입니다 🤗 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>안녕하세요! </div> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍❤️‍👩 협업과 소통을 중요시 여기는 개발자 김예지 입니다 🤗 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖교육 및 연수사항</h2>
+        <li>기간 : 2023.12.04 ~ 2024.06.07</li>
+        <li>교육과정 : MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(앱)개발</li>
+        <li>교육기관 : 더조은 컴퓨터아카데미</li>
+        <li>교육내용 : <br />
+            - 자바 라이브러리를 활용하여 Backend단 데이터를 가공하고, Frontend단에서 화면 설계 및 구현. <br />
+            - 자바(Spring) 및 DB, HTML 과 CSS, JavaScript, jQuery 등을 활용한  웹프로그래밍 실무 능력 향상 <br />
+            - PC, 테블릿, 모바일 등 다양한 디바이스 환경에 맞는 반응형 웹 제작<br />
+            - 프로젝트(쇼핑몰, 앱 구현) <br />
+            -aws클라우드 서비스를 활용한 프로젝트 배포
+        </li>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
