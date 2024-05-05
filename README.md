@@ -57,12 +57,12 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
+<!--     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 프로젝트 </h2> <br> 
     <div style="text-align: left;"> 
         <div>[팀 프로젝트 / SpringBoot] <a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-.git"> FOOD114 </a> </div>
         <div>[개인 프로젝트 / React, Node.js] <a href="https://github.com/vvyejivv/react_sample2.git"> Mimi </a> </div>
-    </div><br /> 
+    </div><br />  -->
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
